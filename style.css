@@ -1,32 +1,17 @@
 body {
-    font-size: 30px;
+    font-size:30px;
+    text-align:center;
 }
 
 input {
-    font-size: 30px;
-}
-
-#layout {
-    width: fit-content;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#display {
-    text-align: center;
-    height: 50px;
-}
-
-.blocks {
-    text-align: center;
+    font-size:30px;
 }
 
 .block {
     width: 3rem;
     height: 3rem;
     vertical-align: middle;
-    margin-bottom: 0.5rem;
+    margin-bottom:0.5rem;
 }
 
 input[value="o"] {

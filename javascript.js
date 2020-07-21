@@ -190,7 +190,7 @@ function displayResult(res) {
     $('result-message').innerHTML = res;
     isRun = false;
     displayMessage();
-    $('reset').style.display = 'block';
+    $('reset').style.display = '';
 }
 
 /**
